@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "writer",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "s21_valid::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-s21_valid-Debug-9c10601335ca6be4c749.json",
+					"name" : "s21_valid",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "s21_valid_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-s21_valid_autogen-Debug-161cb2c5d01a4bfeecbf.json",
+					"name" : "s21_valid_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "s21_valid_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-s21_valid_autogen_timestamp_deps-Debug-02772a8e2c1ee389cc31.json",
+					"name" : "s21_valid_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "writer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-writer-Debug-8321ee405d797163f1c4.json",
+					"name" : "writer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "writer_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-writer_autogen-Debug-d8f7a068dcfd11e3fc1f.json",
+					"name" : "writer_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "writer_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-writer_autogen_timestamp_deps-Debug-d68a0bb28346de038b2e.json",
+					"name" : "writer_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/xx/CLionProjects/writer/cmake-build-debug",
+		"source" : "/home/xx/CLionProjects/writer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

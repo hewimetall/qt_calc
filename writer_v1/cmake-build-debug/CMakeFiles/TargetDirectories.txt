@@ -1,0 +1,8 @@
+/home/xx/CLionProjects/writer/cmake-build-debug/CMakeFiles/writer.dir
+/home/xx/CLionProjects/writer/cmake-build-debug/CMakeFiles/s21_valid.dir
+/home/xx/CLionProjects/writer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/xx/CLionProjects/writer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/xx/CLionProjects/writer/cmake-build-debug/CMakeFiles/writer_autogen_timestamp_deps.dir
+/home/xx/CLionProjects/writer/cmake-build-debug/CMakeFiles/writer_autogen.dir
+/home/xx/CLionProjects/writer/cmake-build-debug/CMakeFiles/s21_valid_autogen_timestamp_deps.dir
+/home/xx/CLionProjects/writer/cmake-build-debug/CMakeFiles/s21_valid_autogen.dir
